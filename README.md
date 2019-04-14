@@ -2,6 +2,8 @@
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/136.gif)
 
+![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/154.gif)
+
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/4355.gif)
 
-![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/154.gif)
+
