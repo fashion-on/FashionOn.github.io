@@ -34,6 +34,8 @@ The dataset will be released soon after the paper is accepted.
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/1490.gif)
 
+![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/5061.gif)
+
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/1856.gif)
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/1966.gif)
