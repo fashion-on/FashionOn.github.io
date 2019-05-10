@@ -8,7 +8,7 @@ The dataset will be released soon after the paper is accepted.
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/126.gif)
 
-![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/4444.gif)
+![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/4849.gif)
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/154.gif)
 
