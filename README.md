@@ -1,7 +1,9 @@
 # FashionOn : Detail-preserving image-based virtual try-on via semantic-guided optimization
 
 The dataset will be released soon after the paper is accepted.  
-
+  
+  
+  
 ## Complicated background cases 
 --------------------------------------------------------------------------------------------
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/20006.jpg)
