@@ -2,7 +2,7 @@
 
 The dataset will be released soon after the paper is accepted.
 
-<span style="color: green"> Complicated background cases </span>
+## Complicated background cases 
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/20006.jpg)
 
