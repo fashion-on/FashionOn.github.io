@@ -21,9 +21,6 @@ The dataset will be released soon after the paper is accepted.
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 ## Complicated clothing cases
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/163.gif)
