@@ -1,4 +1,4 @@
-# FashionOn :  semantic-guided image-based virtual try-on withdetailed human and clothing information
+# FashionOn :  Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information
 
 The dataset will be released soon after the paper is accepted.  
 </br>
