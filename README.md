@@ -14,8 +14,6 @@
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/20025.jpg)
 
 ![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/20027.jpg)
-
-![image](https://github.com/fashion-on/FashionOn.github.io/blob/master/try-on/20028.jpg)
 </br>
 </br>
 </br>
